@@ -52,7 +52,8 @@ For this I have prepared various plots against Balance for other independent var
  #### 4. What will be  Bank's Opening Balance Projection for 2006 till 2012(Data in "Bank Balance" Sheet) ?
  
 For this I have used time series algorithm in Python the forecasts are given below. I have given code for the same in timeseries.py file
-| __2006 __ | __2007 __ | __2008 __ |__2009 __ | __2010__  | __2011 __| __2012 __|
+
+| __2006__  | __2007 __ | __2008__  | __2009__ | __2010__  | __2011__ | __2012 __|
 |-----------|-----------|-----------|----------|-----------|----------|----------|
 | 6717.506  | 36328.72  |  -2196.60 | 60946.32 | 21200.24  | 11539.20 | 12098.58 |
 
