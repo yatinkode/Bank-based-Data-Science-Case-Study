@@ -37,3 +37,22 @@
 For this I have prepared a Shiny App in R. The code is present in app.R file attached in the repository. Click on image below to see the complete working of the app.
 
 [![Watch the app](https://github.com/yatinkode/Bank-based-Data-Science-Case-Study/blob/master/images/shinycustprof.JPG)](https://yatinkode.shinyapps.io/jltapp/)
+
+ #### 2. Is there a factor influencing customer Balance
+ 
+For this I have prepared various plots against Balance for other independent variables where I have found that there is no much correlation between these variables and Balance. So there is no particular factor influencing customer Balance.
+
+
+ #### 3. What could possibly be the balance of a new customer male 28 age joining from Wales ?
+ 
+ For this I have used python and Linear Regression to calculate the value of Balance which comes out to be 101018.5
+ The code for the reression can be found in the file regression.py
+ 
+ 
+ #### 4. What will be  Bank's Opening Balance Projection for 2006 till 2012(Data in "Bank Balance" Sheet) ?
+ 
+For this I have used time series algorithm in Python the forecasts are given below. I have given code for the same in timeseries.py file
+| __2006 __ | __2007 __ | __2008 __ |__2009 __ | __2010__  | __2011 __| __2012 __|
+|-----------|-----------|-----------|----------|-----------|----------|----------|
+| 6717.506  | 36328.72  |  -2196.60 | 60946.32 | 21200.24  | 11539.20 | 12098.58 |
+
