@@ -1,10 +1,8 @@
 # Bank-based-Data-Science-Case-Study
  A small dataset has been provided along with some business problems to solve. Lets have a look at the data structure:
  
-Dataset : emails.csv
-
+Dataset : Data Science Case Study.xlsx
                                                          
-|---------------------------------------------------------------------------------|
 | __Column name__    | __Detail__                                                 |
 |--------------------|------------------------------------------------------------|
 | CustomerID         |  Unique ID for each customer(row)                          |
