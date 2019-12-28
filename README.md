@@ -1,4 +1,4 @@
-# Bank based Data Science Case Study
+# Sample Data Science Case Study
  A small dataset has been provided along with some business problems to solve. Lets have a look at the data structure:
  
 ### Dataset : Data Science Case Study.xlsx
