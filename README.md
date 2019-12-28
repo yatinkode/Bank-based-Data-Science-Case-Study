@@ -53,7 +53,8 @@ For this I have prepared various plots against Balance for other independent var
  
 For this I have used time series algorithm in Python the forecasts are given below. I have given code for the same in timeseries.py file
 
-| __2006__  | __2007 __ | __2008__  | __2009__ | __2010__  | __2011__ | __2012 __|
+| __2006__  | __2007__  | __2008__  | __2009__ | __2010__  | __2011__ | __2012__ |
 |-----------|-----------|-----------|----------|-----------|----------|----------|
 | 6717.506  | 36328.72  |  -2196.60 | 60946.32 | 21200.24  | 11539.20 | 12098.58 |
+
 
