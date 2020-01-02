@@ -46,7 +46,7 @@ For this I have prepared various plots against Balance for other independent var
  #### 3. What could possibly be the balance of a new customer male 28 age joining from Wales ?
  
  For this I have used python and Linear Regression to calculate the value of Balance which comes out to be 101018.5
- The code for the reression can be found in the file regression.py
+ The code for the regression can be found in the file regression.py
  
  
  #### 4. What will be  Bank's Opening Balance Projection for 2006 till 2012(Data in "Bank Balance" Sheet) ?
@@ -57,4 +57,4 @@ For this I have used time series algorithm in Python the forecasts are given bel
 |-----------|-----------|-----------|----------|-----------|----------|----------|
 | 6717.506  | 36328.72  |  -2196.60 | 60946.32 | 21200.24  | 11539.20 | 12098.58 |
 
-[![timeseries](https://github.com/yatinkode/Bank-based-Data-Science-Case-Study/blob/master/images/timeseries.png)]
+![timeseries](https://github.com/yatinkode/Bank-based-Data-Science-Case-Study/blob/master/images/timeseries.png)
